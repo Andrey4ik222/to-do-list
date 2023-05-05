@@ -1,8 +1,10 @@
 .completed {
   color: green;
+  text-decoration: line-through;
 }
 .pending {
   color: red;
+  text-decoration: none;
 }
 .to-do {
   height: 100vh;
